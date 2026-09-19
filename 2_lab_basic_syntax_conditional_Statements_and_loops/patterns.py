@@ -1,7 +1,1 @@
-stars = int(input())
-
-for i in range(1,stars + 1):
-
-    print(i * ("*"))
-for i in range(stars - 1 , 0, -1):
-    print(i * ("*"))
+stars = int(input())for i in range(1,stars + 1):    print(i * ("*"))for i in range(stars - 1 , 0, -1):    print(i * ("*"))# https://github.com/Kris7510/python_fundamentals.git
