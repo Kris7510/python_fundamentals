@@ -1,10 +1,9 @@
-n = int(input())
+n = list((input()))
 marks = []
 
 for i in range(n):
     name = input()
     marks.append(name)
-
-print(marks)
+print(n)
 
 

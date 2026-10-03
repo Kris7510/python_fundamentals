@@ -1,6 +1,5 @@
 n = int(input())
 
-
 list_even = []
 list_odd = []
 list_negative = []
